@@ -1,2 +1,1 @@
-# zombie-crush-2
-project solution for c30
+PRO-CLASS-30-CRUSH-THE-ZOMBIE-2
